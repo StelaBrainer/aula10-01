@@ -1,0 +1,25 @@
+entre o http e o site ecistem métodos
+
+os principais são o 
+
+get- para pegar informação/ler algum dado
+post- para criar algum dado
+put-	update
+delete- deletar
+
+
+c reate
+r read
+u pdate
+d elete
+
+body/corpo da requisição = json(tem formato rest) {"nome":"Alexandre"
+				"data":"28/07/95" }
+----------------------------------------------------------------------------
+
+o projeto começa no source, main,java,webapp
+
+na java estão com.ola.mundo.app
+na com.ola.mundo.app estão model, dao e contato Servlet
+
+na webapp estão os web-inf e o index.jsp
